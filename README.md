@@ -1,5 +1,7 @@
 ###Boas vindas ao meu perfil💙💙###
 
+Nome:Gustavo Renberg Lima
+
 Estou aqui na alura 
 Estou me desenvovendo na linguagem JavaScript utilizo este espaço para organização e compartilhamento dos meus projetos desenvolvidos 
 
